@@ -8,7 +8,7 @@
   
 - 🔭 I'm a 4th year undergraduate at **UIT University**
   
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Reactjs/React Native**
   
 - 📫 How to reach me **hvhiep14.8@gmail.com**
 </div>
